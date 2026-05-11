@@ -5,7 +5,8 @@ export const HeaderComponent = () => {
     <div>
         <header>
             <nav className='navbar navbar-dark' style={{ backgroundColor: 'rgb(0, 132, 139)' }}>
-                <a className='navbar-brand' href='#'>Employee Management System</a>
+                
+                <span className="navbar-brand ms-3 mb-0 h1">Employee Management System</span>
 
             </nav>
         </header>
