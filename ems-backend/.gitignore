@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Spring Boot
+HELP.md
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+# Eclipse (if you ever use it)
+.classpath
+.project
+.settings/
+
+# VS Code (if you ever use it)
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*.~*
